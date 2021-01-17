@@ -1,0 +1,41 @@
+<html>
+
+<head>
+
+    <script async type="text/javascript" src="heapsort.js"></script>
+    <script async type="text/javascript" src="query4.js"></script>
+    <script async type="text/javascript" src="query5.js"></script>
+
+</head>
+
+
+<body>
+
+    <button id="Test1">Run Q1</button>
+    <br>
+    <button id="Test2">Run Q2</button>
+    <br>
+    <button id="Test3">Run Q3</button>
+    <br>
+    <button id="Test4">Run Q4</button>
+    <br>
+    <button id="Test5">Run Q5</button>
+    <br>
+    <script>
+
+        let INT_MAX = 2147483647;
+
+        document.querySelector("#Test1").addEventListener('click', async function () {
+    
+            console.log("------------------------------- Q4 Start");
+            await main_q4();
+            console.log("------------------------------- Q4 End");
+    
+            console.log("------------------------------- Q5 Start");
+            await main_q5();
+            console.log("------------------------------- Q5 End");
+        });
+    </script>
+</body>
+
+</html>

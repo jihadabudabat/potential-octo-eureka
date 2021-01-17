@@ -1,0 +1,150 @@
+<html>
+
+<head>
+
+</head>
+<script src="bineryen.js"></script>
+<script src="Subscript_compiler.js"></script>
+<script src="Queryprozessor.js"></script>
+
+<body>
+  <button id="Test">Test All</button>
+
+
+  <script>
+    /*
+      Start
+    */
+    (async function() {
+
+        let src = "./input/";
+
+        // array for the benchmark
+        let benchmatks;
+        // The performance variables
+        let t0,t1,t2;
+        // The operators
+        let oprtators = ['-', '+', '*', '/'];
+        // mittelwert for the tests if they are calculated more than once
+        let mittelWert = 0 ;
+        
+        // mittelwert for the code generation tests if they are calculated more than once
+        let CG_mittelWert = 0 ;
+
+        // Iteration over all the operators
+        for (let o = 0; 0 < oprtators.length ; o++) {
+
+          let type = oprtators[o];
+          // Scale factor test for JavaScript
+          benchmatks = [100, 1000, 10000, 100000, 1000000, 10000000];
+          for (let i = 0; i < benchmatks.length; i++) {
+            for (let j = 0; j < 1; j++) {
+              t0 = performance.now();
+              // execute the function
+              await calculate_JavaScript(src, type, benchmatks[i]);
+              t1 = performance.now();
+              mittelWert+= (Math.round(((t1 - t0) + Number.EPSILON) * 1000) / 1000);
+            }
+            console.log(`-----------> in JavaScript Scaling for operator ${type} b. ${benchmatks[i]} took ${mittelWert/1} milliseconds.`);
+            mittelWert = 0;
+          }
+
+          // Scale factor test for Code Generation
+          t0 = performance.now();
+          let function_ = await test_main(type,binaryen);
+          t1 = performance.now();
+          benchmatks = [100, 1000, 10000, 100000, 1000000, 10000000];
+          for (let i = 0; i < benchmatks.length; i++) {
+            for (let j = 0; j < 1; j++) {
+              // generate the function
+             function_ = await test_main(type,binaryen);
+              t1 = performance.now();
+              // execute the function
+              await main(src, function_, benchmatks[i]);
+              t2 = performance.now();
+              mittelWert+= (Math.round(((t2 - t1) + Number.EPSILON) * 1000) / 1000);
+            }
+            console.log(`-----------> apply code generation for Scaling for operator ${type} b. ${benchmatks[i]} took ${mittelWert/1} milliseconds.`);
+            mittelWert = 0;
+          }
+
+          // Argument count tests for Code generation
+          benchmatks = [1, 5, 10, 15, 20];
+          for (let i = 0; i < benchmatks.length; i++) {
+            for (let j = 0; j < 1; j++) {
+
+              t0 = performance.now();
+              // generate the function
+              let function_ = await test_main_multi_params(binaryen, benchmatks[i], type);
+              t1 = performance.now();
+              CG_mittelWert+= (Math.round(((t1 - t0) + Number.EPSILON) * 1000) / 1000);
+              t1 = performance.now();
+              // execute the function
+              await main_multi_function(src, function_, benchmatks[i]);
+              t2 = performance.now();
+              mittelWert+= (Math.round(((t2 - t1) + Number.EPSILON) * 1000) / 1000);
+            }
+            console.log(`-----------> Generating Code for operator ${type} b. ${benchmatks[i]} took ${CG_mittelWert/1} milliseconds.`);
+            CG_mittelWert = 0;
+            console.log(`-----------> apply code generation for operator ${type} b. ${benchmatks[i]} took ${mittelWert/1} milliseconds.`);
+            mittelWert = 0;
+          }
+          
+          // Argument count for  JavaScript 
+          benchmatks = [1, 5, 10, 15, 20];
+          for (let i = 0; i < benchmatks.length; i++) {
+            for (let j = 0; j < 1; j++) {
+              t1 = performance.now();
+              // execute the function
+              await calculate_JavaScript_parameter_number(src, type, benchmatks[i]);
+              t2 = performance.now();
+              mittelWert+= (Math.round(((t1 - t0) + Number.EPSILON) * 1000) / 1000);
+            }
+            console.log(`-----------> JavaScript Arguments count for operator ${type} b. ${benchmatks[i]} took ${mittelWert/1} milliseconds.`);
+            mittelWert = 0;
+          }
+
+          // Function count for Code Generation 
+          benchmatks	 = [10, 50, 100, 500];
+          for (let i = 0; i < benchmatks.length; i++) {
+            for (let j = 0; j < 1; j++) {
+
+              t0 = performance.now();
+              // generate the function
+              let function_ = await test_main(type,binaryen,benchmatks[i]);
+              t1 = performance.now();
+              CG_mittelWert+= (Math.round(((t1 - t0) + Number.EPSILON) * 1000) / 1000);
+              t1 = performance.now();
+              // execute the function
+              await mainfunctiongeneriert(src, function_);
+              t2 = performance.now();
+              mittelWert+= (Math.round(((t2 - t1) + Number.EPSILON) * 1000) / 1000);
+            }
+            console.log(`-----------> Generating Code for operator ${type} Function count b. ${benchmatks[i]} took ${CG_mittelWert/1} milliseconds.`);
+            CG_mittelWert = 0;
+            console.log(`-----------> apply code generation for operator ${type} Function count b. ${benchmatks[i]} took ${mittelWert/1} milliseconds.`);
+            mittelWert = 0;
+          }
+
+          // Function for JavaScript
+          benchmatks = [10, 50, 100, 500];
+          for (let i = 0; i < benchmatks.length; i++) {
+            for (let j = 0; j < 1; j++) {
+              t1 = performance.now();
+              // execute the function
+              await calculate_JavaScript_functions_number(src, type, benchmatks[i]);
+              t2 = performance.now();
+              mittelWert+= (Math.round(((t1 - t0) + Number.EPSILON) * 1000) / 1000);
+            }
+            console.log(`-----------> JavaScript Function count for operator ${type} b. ${benchmatks[i]} took ${mittelWert/1} milliseconds.`);
+           mittelWert = 0;
+          }
+
+        }
+        
+})();
+
+  </script>
+</body>
+
+</html>

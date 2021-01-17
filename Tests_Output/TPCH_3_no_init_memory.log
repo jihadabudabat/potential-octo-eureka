@@ -1,0 +1,282 @@
+DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/iframe_handler.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/content.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+q3.js:1 Wall Time for Loading Data took: 0 
+q3.js:1 Wall Time for Loading Data took: 1 
+q3.js:1 Wall Time for Loading Data took: 2 
+q3.js:1 Wall Time for Loading Data took: 3 
+q3.js:1 Wall Time for Loading Data took: 4
+q3.js:1 Wall Time for Loading Data took: 5 
+q3.js:1 Wall Time for Loading Data took: 6 
+q3.js:1 Wall Time for Loading Data took: 7 
+q3.js:1 Wall Time for Loading Data took: 8 
+q3.js:1 Wall Time for Loading Data took: 9 
+q3.js:1 Wall Time for Loading Data took:0.203
+q3.js:1 CPU Time for  Loading Data took:0.203
+q3.js:1 Wall Time for part= 0.1 is :0.0170002
+q3.js:1 CPU Time for  part= 0.1 is :0.017
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |l_orderkey     |revenue        |o_orderdare    |o_shippriority |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |1731           |23438.490      |1993-06-05     |0              |
+q3.js:1 |518            |19875.592      |1993-09-04     |0              |
+q3.js:1 |871            |17551.990      |1995-01-08     |0              |
+q3.js:1 |1413           |15686.736      |1994-01-17     |0              |
+q3.js:1 |961            |15596.484      |1992-04-09     |0              |
+q3.js:1 |739            |15289.357      |1994-08-23     |0              |
+q3.js:1 |35             |13967.835      |1993-06-11     |0              |
+q3.js:1 |1639           |5709.374       |1995-01-05     |0              |
+q3.js:1 |2658           |13075.250      |1993-02-25     |0              |
+q3.js:1 |1893           |10200.320      |1993-12-11     |0              |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 Wall Time for Loading Data took: 0 
+q3.js:1 Wall Time for Loading Data took: 1 
+q3.js:1 Wall Time for Loading Data took: 2 
+q3.js:1 Wall Time for Loading Data took: 3 
+q3.js:1 Wall Time for Loading Data took: 4
+q3.js:1 Wall Time for Loading Data took: 5 
+q3.js:1 Wall Time for Loading Data took: 6 
+q3.js:1 Wall Time for Loading Data took: 7 
+q3.js:1 Wall Time for Loading Data took: 8 
+q3.js:1 Wall Time for Loading Data took: 9 
+q3.js:1 Wall Time for Loading Data took:0.053
+q3.js:1 CPU Time for  Loading Data took:0.053
+q3.js:1 Wall Time for part= 0.2 is :0.049
+q3.js:1 CPU Time for  part= 0.2 is :0.049
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |l_orderkey     |revenue        |o_orderdare    |o_shippriority |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |6786           |23923.117      |1994-11-02     |0              |
+q3.js:1 |1731           |23438.490      |1993-06-05     |0              |
+q3.js:1 |5158           |22876.646      |1992-04-16     |0              |
+q3.js:1 |6883           |21573.162      |1993-02-02     |0              |
+q3.js:1 |5989           |21260.396      |1992-12-13     |0              |
+q3.js:1 |518            |19875.592      |1993-09-04     |0              |
+q3.js:1 |6919           |13147.161      |1993-01-27     |0              |
+q3.js:1 |6981           |5869.917       |1994-11-09     |0              |
+q3.js:1 |7270           |18855.289      |1993-05-20     |0              |
+q3.js:1 |871            |17551.990      |1995-01-08     |0              |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 Wall Time for Loading Data took: 0 
+q3.js:1 Wall Time for Loading Data took: 1 
+q3.js:1 Wall Time for Loading Data took: 2 
+q3.js:1 Wall Time for Loading Data took: 3 
+q3.js:1 Wall Time for Loading Data took: 4
+q3.js:1 Wall Time for Loading Data took: 5 
+q3.js:1 Wall Time for Loading Data took: 6 
+q3.js:1 Wall Time for Loading Data took: 7 
+q3.js:1 Wall Time for Loading Data took: 8 
+q3.js:1 Wall Time for Loading Data took: 9 
+q3.js:1 Wall Time for Loading Data took:0.073
+q3.js:1 CPU Time for  Loading Data took:0.073
+q3.js:1 Wall Time for part= 0.3 is :0.0600002
+q3.js:1 CPU Time for  part= 0.3 is :0.06
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |l_orderkey     |revenue        |o_orderdare    |o_shippriority |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |6786           |23923.117      |1994-11-02     |0              |
+q3.js:1 |1731           |23438.490      |1993-06-05     |0              |
+q3.js:1 |5158           |22876.646      |1992-04-16     |0              |
+q3.js:1 |6883           |21573.162      |1993-02-02     |0              |
+q3.js:1 |5989           |21260.396      |1992-12-13     |0              |
+q3.js:1 |518            |19875.592      |1993-09-04     |0              |
+q3.js:1 |7270           |18855.289      |1993-05-20     |0              |
+q3.js:1 |871            |17551.990      |1995-01-08     |0              |
+q3.js:1 |9730           |17526.406      |1994-09-18     |0              |
+q3.js:1 |8421           |17220.879      |1992-04-28     |0              |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 Wall Time for Loading Data took: 0 
+q3.js:1 Wall Time for Loading Data took: 1 
+q3.js:1 Wall Time for Loading Data took: 2 
+q3.js:1 Wall Time for Loading Data took: 3 
+q3.js:1 Wall Time for Loading Data took: 4
+q3.js:1 Wall Time for Loading Data took: 5 
+q3.js:1 Wall Time for Loading Data took: 6 
+q3.js:1 Wall Time for Loading Data took: 7 
+q3.js:1 Wall Time for Loading Data took: 8 
+q3.js:1 Wall Time for Loading Data took: 9 
+q3.js:1 Wall Time for Loading Data took:0.0540001
+q3.js:1 CPU Time for  Loading Data took:0.054
+q3.js:1 Wall Time for part= 0.4 is :0.0829999
+q3.js:1 CPU Time for  part= 0.4 is :0.083
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |l_orderkey     |revenue        |o_orderdare    |o_shippriority |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |6786           |23923.117      |1994-11-02     |0              |
+q3.js:1 |1731           |23438.490      |1993-06-05     |0              |
+q3.js:1 |5158           |22876.646      |1992-04-16     |0              |
+q3.js:1 |6883           |21573.162      |1993-02-02     |0              |
+q3.js:1 |5989           |21260.396      |1992-12-13     |0              |
+q3.js:1 |518            |19875.592      |1993-09-04     |0              |
+q3.js:1 |7270           |18855.289      |1993-05-20     |0              |
+q3.js:1 |13155          |17945.480      |1992-11-10     |0              |
+q3.js:1 |13922          |17663.996      |1992-07-16     |0              |
+q3.js:1 |871            |17551.990      |1995-01-08     |0              |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 Wall Time for Loading Data took: 0 
+q3.js:1 Wall Time for Loading Data took: 1 
+q3.js:1 Wall Time for Loading Data took: 2 
+q3.js:1 Wall Time for Loading Data took: 3 
+q3.js:1 Wall Time for Loading Data took: 4
+q3.js:1 Wall Time for Loading Data took: 5 
+q3.js:1 Wall Time for Loading Data took: 6 
+q3.js:1 Wall Time for Loading Data took: 7 
+q3.js:1 Wall Time for Loading Data took: 8 
+q3.js:1 Wall Time for Loading Data took: 9 
+q3.js:1 Wall Time for Loading Data took:0.066
+q3.js:1 CPU Time for  Loading Data took:0.066
+q3.js:1 Wall Time for part= 0.5 is :0.104
+q3.js:1 CPU Time for  part= 0.5 is :0.104
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |l_orderkey     |revenue        |o_orderdare    |o_shippriority |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |6786           |23923.117      |1994-11-02     |0              |
+q3.js:1 |1731           |23438.490      |1993-06-05     |0              |
+q3.js:1 |5158           |22876.646      |1992-04-16     |0              |
+q3.js:1 |15333          |22124.672      |1992-11-19     |0              |
+q3.js:1 |6883           |21573.162      |1993-02-02     |0              |
+q3.js:1 |15587          |21318.525      |1992-02-25     |0              |
+q3.js:1 |5989           |21260.396      |1992-12-13     |0              |
+q3.js:1 |518            |19875.592      |1993-09-04     |0              |
+q3.js:1 |7270           |18855.289      |1993-05-20     |0              |
+q3.js:1 |13155          |17945.480      |1992-11-10     |0              |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 Wall Time for Loading Data took: 0 
+q3.js:1 Wall Time for Loading Data took: 1 
+q3.js:1 Wall Time for Loading Data took: 2 
+q3.js:1 Wall Time for Loading Data took: 3 
+q3.js:1 Wall Time for Loading Data took: 4
+q3.js:1 Wall Time for Loading Data took: 5 
+q3.js:1 Wall Time for Loading Data took: 6 
+q3.js:1 Wall Time for Loading Data took: 7 
+q3.js:1 Wall Time for Loading Data took: 8 
+q3.js:1 Wall Time for Loading Data took: 9 
+q3.js:1 Wall Time for Loading Data took:0.0710001
+q3.js:1 CPU Time for  Loading Data took:0.071
+q3.js:1 Wall Time for part= 0.6 is :0.145
+q3.js:1 CPU Time for  part= 0.6 is :0.145
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |l_orderkey     |revenue        |o_orderdare    |o_shippriority |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |6786           |23923.117      |1994-11-02     |0              |
+q3.js:1 |1731           |23438.490      |1993-06-05     |0              |
+q3.js:1 |5158           |22876.646      |1992-04-16     |0              |
+q3.js:1 |15333          |22124.672      |1992-11-19     |0              |
+q3.js:1 |6883           |21573.162      |1993-02-02     |0              |
+q3.js:1 |15587          |21318.525      |1992-02-25     |0              |
+q3.js:1 |5989           |21260.396      |1992-12-13     |0              |
+q3.js:1 |20804          |20077.043      |1994-02-21     |0              |
+q3.js:1 |19846          |19958.777      |1994-12-25     |0              |
+q3.js:1 |518            |19875.592      |1993-09-04     |0              |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 Wall Time for Loading Data took: 0 
+q3.js:1 Wall Time for Loading Data took: 1 
+q3.js:1 Wall Time for Loading Data took: 2 
+q3.js:1 Wall Time for Loading Data took: 3 
+q3.js:1 Wall Time for Loading Data took: 4
+q3.js:1 Wall Time for Loading Data took: 5 
+q3.js:1 Wall Time for Loading Data took: 6 
+q3.js:1 Wall Time for Loading Data took: 7 
+q3.js:1 Wall Time for Loading Data took: 8 
+q3.js:1 Wall Time for Loading Data took: 9 
+q3.js:1 Wall Time for Loading Data took:0.0699999
+q3.js:1 CPU Time for  Loading Data took:0.07
+q3.js:1 Wall Time for part= 0.7 is :0.135
+q3.js:1 CPU Time for  part= 0.7 is :0.135
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |l_orderkey     |revenue        |o_orderdare    |o_shippriority |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |26241          |26745.037      |1994-08-27     |0              |
+q3.js:1 |6786           |23923.117      |1994-11-02     |0              |
+q3.js:1 |26183          |4888.224       |1992-11-24     |0              |
+q3.js:1 |26118          |6718.060       |1993-08-18     |0              |
+q3.js:1 |1731           |23438.490      |1993-06-05     |0              |
+q3.js:1 |23237          |23204.490      |1994-11-04     |0              |
+q3.js:1 |25984          |3610.448       |1992-02-09     |0              |
+q3.js:1 |25921          |7694.322       |1994-06-07     |0              |
+q3.js:1 |25863          |13892.601      |1993-01-09     |0              |
+q3.js:1 |25665          |2148.634       |1993-05-13     |0              |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 Wall Time for Loading Data took: 0 
+q3.js:1 Wall Time for Loading Data took: 1 
+q3.js:1 Wall Time for Loading Data took: 2 
+q3.js:1 Wall Time for Loading Data took: 3 
+q3.js:1 Wall Time for Loading Data took: 4
+q3.js:1 Wall Time for Loading Data took: 5 
+q3.js:1 Wall Time for Loading Data took: 6 
+q3.js:1 Wall Time for Loading Data took: 7 
+q3.js:1 Wall Time for Loading Data took: 8 
+q3.js:1 Wall Time for Loading Data took: 9 
+q3.js:1 Wall Time for Loading Data took:0.128
+q3.js:1 CPU Time for  Loading Data took:0.128
+q3.js:1 Wall Time for part= 0.8 is :0.203
+q3.js:1 CPU Time for  part= 0.8 is :0.203
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |l_orderkey     |revenue        |o_orderdare    |o_shippriority |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |26241          |26745.037      |1994-08-27     |0              |
+q3.js:1 |6786           |23923.117      |1994-11-02     |0              |
+q3.js:1 |1731           |23438.490      |1993-06-05     |0              |
+q3.js:1 |23237          |23204.490      |1994-11-04     |0              |
+q3.js:1 |5158           |22876.646      |1992-04-16     |0              |
+q3.js:1 |15333          |22124.672      |1992-11-19     |0              |
+q3.js:1 |29158          |22048.002      |1994-08-10     |0              |
+q3.js:1 |6883           |21573.162      |1993-02-02     |0              |
+q3.js:1 |15587          |21318.525      |1992-02-25     |0              |
+q3.js:1 |5989           |21260.396      |1992-12-13     |0              |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 Wall Time for Loading Data took: 0 
+q3.js:1 Wall Time for Loading Data took: 1 
+q3.js:1 Wall Time for Loading Data took: 2 
+q3.js:1 Wall Time for Loading Data took: 3 
+q3.js:1 Wall Time for Loading Data took: 4
+q3.js:1 Wall Time for Loading Data took: 5 
+q3.js:1 Wall Time for Loading Data took: 6 
+q3.js:1 Wall Time for Loading Data took: 7 
+q3.js:1 Wall Time for Loading Data took: 8 
+q3.js:1 Wall Time for Loading Data took: 9 
+q3.js:1 Wall Time for Loading Data took:0.073
+q3.js:1 CPU Time for  Loading Data took:0.073
+q3.js:1 Wall Time for part= 0.9 is :0.162
+q3.js:1 CPU Time for  part= 0.9 is :0.162
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |l_orderkey     |revenue        |o_orderdare    |o_shippriority |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |26241          |26745.037      |1994-08-27     |0              |
+q3.js:1 |6786           |23923.117      |1994-11-02     |0              |
+q3.js:1 |1731           |23438.490      |1993-06-05     |0              |
+q3.js:1 |23237          |23204.490      |1994-11-04     |0              |
+q3.js:1 |5158           |22876.646      |1992-04-16     |0              |
+q3.js:1 |15333          |22124.672      |1992-11-19     |0              |
+q3.js:1 |29158          |22048.002      |1994-08-10     |0              |
+q3.js:1 |6883           |21573.162      |1993-02-02     |0              |
+q3.js:1 |15587          |21318.525      |1992-02-25     |0              |
+q3.js:1 |5989           |21260.396      |1992-12-13     |0              |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 Wall Time for Loading Data took: 0 
+q3.js:1 Wall Time for Loading Data took: 1 
+q3.js:1 Wall Time for Loading Data took: 2 
+q3.js:1 Wall Time for Loading Data took: 3 
+q3.js:1 Wall Time for Loading Data took: 4
+q3.js:1 Wall Time for Loading Data took: 5 
+q3.js:1 Wall Time for Loading Data took: 6 
+q3.js:1 Wall Time for Loading Data took: 7 
+q3.js:1 Wall Time for Loading Data took: 8 
+q3.js:1 Wall Time for Loading Data took: 9 
+q3.js:1 Wall Time for Loading Data took:0.0739999
+q3.js:1 CPU Time for  Loading Data took:0.074
+q3.js:1 Wall Time for part= 1 is :0.207
+q3.js:1 CPU Time for  part= 1 is :0.207
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |l_orderkey     |revenue        |o_orderdare    |o_shippriority |
+q3.js:1 -----------------------------------------------------------------
+q3.js:1 |26241          |26745.037      |1994-08-27     |0              |
+q3.js:1 |6786           |23923.117      |1994-11-02     |0              |
+q3.js:1 |1731           |23438.490      |1993-06-05     |0              |
+q3.js:1 |23237          |23204.490      |1994-11-04     |0              |
+q3.js:1 |5158           |22876.646      |1992-04-16     |0              |
+q3.js:1 |36964          |22156.217      |1993-01-23     |0              |
+q3.js:1 |15333          |22124.672      |1992-11-19     |0              |
+q3.js:1 |29158          |22048.002      |1994-08-10     |0              |
+q3.js:1 |6883           |21573.162      |1993-02-02     |0              |
+q3.js:1 |15587          |21318.525      |1992-02-25     |0              |
+q3.js:1 -----------------------------------------------------------------

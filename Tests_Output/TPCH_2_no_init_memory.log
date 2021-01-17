@@ -1,0 +1,42 @@
+DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/iframe_handler.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/content.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+q2.js:1 Wall Time for Loading Data took:0.0170002
+q2.js:1 CPU Time for  Loading Data took:0.017
+q2.js:1 Wall Time for part= 0.1 is :0.00399995
+q2.js:1 CPU Time for  part= 0.1 is :0.004
+q2.js:1 Wall Time for Loading Data took:0.0150001
+q2.js:1 CPU Time for  Loading Data took:0.015
+q2.js:1 Wall Time for part= 0.2 is :0.00900006
+q2.js:1 CPU Time for  part= 0.2 is :0.009
+q2.js:1 Wall Time for Loading Data took:0.00600004
+q2.js:1 CPU Time for  Loading Data took:0.006
+q2.js:1 Wall Time for part= 0.3 is :0.0149999
+q2.js:1 CPU Time for  part= 0.3 is :0.015
+q2.js:1 Wall Time for Loading Data took:0.00999999
+q2.js:1 CPU Time for  Loading Data took:0.01
+q2.js:1 Wall Time for part= 0.4 is :0.0220001
+q2.js:1 CPU Time for  part= 0.4 is :0.021
+q2.js:1 Wall Time for Loading Data took:0.00699997
+q2.js:1 CPU Time for  Loading Data took:0.007
+q2.js:1 Wall Time for part= 0.5 is :0.056
+q2.js:1 CPU Time for  part= 0.5 is :0.056
+q2.js:1 Wall Time for Loading Data took:0.00699997
+q2.js:1 CPU Time for  Loading Data took:0.007
+q2.js:1 Wall Time for part= 0.6 is :0.0400002
+q2.js:1 CPU Time for  part= 0.6 is :0.04
+q2.js:1 Wall Time for Loading Data took:0.0140002
+q2.js:1 CPU Time for  Loading Data took:0.014
+q2.js:1 Wall Time for part= 0.7 is :0.0480001
+q2.js:1 CPU Time for  part= 0.7 is :0.048
+q2.js:1 Wall Time for Loading Data took:0.00900006
+q2.js:1 CPU Time for  Loading Data took:0.009
+q2.js:1 Wall Time for part= 0.8 is :0.0570002
+q2.js:1 CPU Time for  part= 0.8 is :0.057
+q2.js:1 Wall Time for Loading Data took:0.0109999
+q2.js:1 CPU Time for  Loading Data took:0.011
+q2.js:1 Wall Time for part= 0.9 is :0.0709999
+q2.js:1 CPU Time for  part= 0.9 is :0.071
+q2.js:1 Wall Time for Loading Data took:0.00800014
+q2.js:1 CPU Time for  Loading Data took:0.008
+q2.js:1 Wall Time for part= 1 is :0.0869999
+q2.js:1 CPU Time for  part= 1 is :0.087

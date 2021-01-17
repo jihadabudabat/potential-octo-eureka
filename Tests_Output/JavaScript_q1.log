@@ -1,0 +1,24 @@
+DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/iframe_handler.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/content.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+test.html:32 ------------------------------- Q1 Start
+query1.js:59 Query 1 loading 0.1  took 5901.325 ms
+query1.js:142 Query 1 with scale factor 0.1  took 1001.66 ms
+query1.js:59 Query 1 loading 0.2  took 5040.345 ms
+query1.js:142 Query 1 with scale factor 0.2  took 1582.935 ms
+query1.js:59 Query 1 loading 0.3  took 5394.255 ms
+query1.js:142 Query 1 with scale factor 0.3  took 2238.38 ms
+query1.js:59 Query 1 loading 0.4  took 5664.995 ms
+query1.js:142 Query 1 with scale factor 0.4  took 4142.23 ms
+query1.js:59 Query 1 loading 0.5  took 5159.72 ms
+query1.js:142 Query 1 with scale factor 0.5  took 3948.45 ms
+query1.js:59 Query 1 loading 0.6  took 5335.47 ms
+query1.js:142 Query 1 with scale factor 0.6  took 4885.24 ms
+query1.js:59 Query 1 loading 0.7  took 5031.98 ms
+query1.js:142 Query 1 with scale factor 0.7  took 5503.375 ms
+query1.js:59 Query 1 loading 0.8  took 5380.385 ms
+query1.js:142 Query 1 with scale factor 0.8  took 6266.55 ms
+query1.js:59 Query 1 loading 0.9  took 5107.13 ms
+query1.js:142 Query 1 with scale factor 0.9  took 6976.725 ms
+query1.js:59 Query 1 loading 1  took 5225.4 ms
+query1.js:142 Query 1 with scale factor 1  took 8003.05 ms
+test.html:34 ------------------------------- Q1 End

@@ -1,0 +1,112 @@
+DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/iframe_handler.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/content.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+test.html:32 ------------------------------- Q1 Start
+query1.js:59 Query 1 loading 0.1  took 5678.17 ms
+query1.js:142 Query 1 with scale factor 0.1  took 936.47 ms
+query1.js:59 Query 1 loading 0.2  took 4914.725 ms
+query1.js:142 Query 1 with scale factor 0.2  took 1551.96 ms
+query1.js:59 Query 1 loading 0.3  took 5070.775 ms
+query1.js:142 Query 1 with scale factor 0.3  took 2175.02 ms
+query1.js:59 Query 1 loading 0.4  took 5381.05 ms
+query1.js:142 Query 1 with scale factor 0.4  took 3132.6 ms
+query1.js:59 Query 1 loading 0.5  took 5120.295 ms
+query1.js:142 Query 1 with scale factor 0.5  took 3915.09 ms
+query1.js:59 Query 1 loading 0.6  took 5014.845 ms
+query1.js:142 Query 1 with scale factor 0.6  took 4611.69 ms
+query1.js:59 Query 1 loading 0.7  took 5021.03 ms
+query1.js:142 Query 1 with scale factor 0.7  took 5254.035 ms
+query1.js:59 Query 1 loading 0.8  took 5427.395 ms
+query1.js:142 Query 1 with scale factor 0.8  took 6208.825 ms
+query1.js:59 Query 1 loading 0.9  took 5098.335 ms
+query1.js:142 Query 1 with scale factor 0.9  took 7013.3 ms
+query1.js:59 Query 1 loading 1  took 5043.49 ms
+query1.js:142 Query 1 with scale factor 1  took 7977.685 ms
+test.html:34 ------------------------------- Q1 End
+test.html:36 ------------------------------- Q2 Start
+query2.js:73 Query 2 loading 0.1  took 4257.69 ms
+query2.js:175 Query 2 with scale factor 0.1  took 8.525 ms
+query2.js:73 Query 2 loading 0.2  took 3539.655 ms
+query2.js:175 Query 2 with scale factor 0.2  took 14.485 ms
+query2.js:73 Query 2 loading 0.3  took 3534.26 ms
+query2.js:175 Query 2 with scale factor 0.3  took 8.195 ms
+query2.js:73 Query 2 loading 0.4  took 3554.865 ms
+query2.js:175 Query 2 with scale factor 0.4  took 13.225 ms
+query2.js:73 Query 2 loading 0.5  took 3552.82 ms
+query2.js:175 Query 2 with scale factor 0.5  took 15.86 ms
+query2.js:73 Query 2 loading 0.6  took 3494.285 ms
+query2.js:175 Query 2 with scale factor 0.6  took 17.34 ms
+query2.js:73 Query 2 loading 0.7  took 3281.475 ms
+query2.js:175 Query 2 with scale factor 0.7  took 29.805 ms
+query2.js:73 Query 2 loading 0.8  took 3801.225 ms
+query2.js:175 Query 2 with scale factor 0.8  took 25.155 ms
+query2.js:73 Query 2 loading 0.9  took 3624.74 ms
+query2.js:175 Query 2 with scale factor 0.9  took 33.035 ms
+query2.js:73 Query 2 loading 1  took 3424.37 ms
+query2.js:175 Query 2 with scale factor 1  took 27.525 ms
+test.html:38 ------------------------------- Q2 End
+test.html:40 ------------------------------- Q3 Start
+query3.js:51 Query 3 loading 0.1  took 3247.23 ms
+query3.js:106 Query 3 with scale factor 0.1  took 7310 ms
+query3.js:51 Query 3 loading 0.2  took 3372.72 ms
+query3.js:106 Query 3 with scale factor 0.2  took 17230.575 ms
+query3.js:51 Query 3 loading 0.3  took 3539.995 ms
+query3.js:106 Query 3 with scale factor 0.3  took 27267.105 ms
+query3.js:51 Query 3 loading 0.4  took 3719.595 ms
+query3.js:106 Query 3 with scale factor 0.4  took 35372.99 ms
+query3.js:51 Query 3 loading 0.5  took 3691.515 ms
+query3.js:106 Query 3 with scale factor 0.5  took 41898.14 ms
+query3.js:51 Query 3 loading 0.6  took 3567.185 ms
+query3.js:106 Query 3 with scale factor 0.6  took 49456.695 ms
+query3.js:51 Query 3 loading 0.7  took 3495.425 ms
+query3.js:106 Query 3 with scale factor 0.7  took 61400.98 ms
+query3.js:51 Query 3 loading 0.8  took 4004.455 ms
+query3.js:106 Query 3 with scale factor 0.8  took 61707.265 ms
+query3.js:51 Query 3 loading 0.9  took 4729.935 ms
+query3.js:106 Query 3 with scale factor 0.9  took 74345.855 ms
+query3.js:51 Query 3 loading 1  took 3007.195 ms
+query3.js:106 Query 3 with scale factor 1  took 81192.915 ms
+test.html:42 ------------------------------- Q3 End
+test.html:44 ------------------------------- Q4 Start
+query4.js:56 Query 4 loading 0.1  took 7674.075 ms
+query4.js:101 Query 4 with scale factor 0.1  took 793.06 ms
+query4.js:56 Query 4 loading 0.2  took 6746.01 ms
+query4.js:101 Query 4 with scale factor 0.2  took 1395.005 ms
+query4.js:56 Query 4 loading 0.3  took 6956.795 ms
+query4.js:101 Query 4 with scale factor 0.3  took 1941.775 ms
+query4.js:56 Query 4 loading 0.4  took 6892.4 ms
+query4.js:101 Query 4 with scale factor 0.4  took 2544.345 ms
+query4.js:56 Query 4 loading 0.5  took 6956.525 ms
+query4.js:101 Query 4 with scale factor 0.5  took 3075.345 ms
+query4.js:56 Query 4 loading 0.6  took 7713.8 ms
+query4.js:101 Query 4 with scale factor 0.6  took 4864.54 ms
+query4.js:56 Query 4 loading 0.7  took 11207.305 ms
+query4.js:101 Query 4 with scale factor 0.7  took 5794.195 ms
+query4.js:56 Query 4 loading 0.8  took 8232.83 ms
+query4.js:101 Query 4 with scale factor 0.8  took 5661.245 ms
+query4.js:56 Query 4 loading 0.9  took 7582.49 ms
+query4.js:101 Query 4 with scale factor 0.9  took 7071.25 ms
+query4.js:56 Query 4 loading 1  took 7505.335 ms
+query4.js:101 Query 4 with scale factor 1  took 6424.96 ms
+test.html:46 ------------------------------- Q4 End
+test.html:48 ------------------------------- Q5 Start
+query5.js:72 Query 5 loading 0.1  took 5001.08 ms
+query5.js:190 Query 5 with scale factor 0.1  took 226.915 ms
+query5.js:72 Query 5 loading 0.2  took 4708.1 ms
+query5.js:190 Query 5 with scale factor 0.2  took 371.325 ms
+query5.js:72 Query 5 loading 0.3  took 4805.435 ms
+query5.js:190 Query 5 with scale factor 0.3  took 496.435 ms
+query5.js:72 Query 5 loading 0.4  took 4732.33 ms
+query5.js:190 Query 5 with scale factor 0.4  took 741.575 ms
+query5.js:72 Query 5 loading 0.5  took 4797.525 ms
+query5.js:190 Query 5 with scale factor 0.5  took 841.85 ms
+query5.js:72 Query 5 loading 0.6  took 4786.095 ms
+query5.js:190 Query 5 with scale factor 0.6  took 1056.78 ms
+query5.js:72 Query 5 loading 0.7  took 5398.525 ms
+query5.js:190 Query 5 with scale factor 0.7  took 1132.425 ms
+query5.js:72 Query 5 loading 0.8  took 4678.15 ms
+query5.js:190 Query 5 with scale factor 0.8  took 1271.475 ms
+query5.js:72 Query 5 loading 0.9  took 4706.55 ms
+query5.js:190 Query 5 with scale factor 0.9  took 1498.59 ms
+query5.js:72 Query 5 loading 1  took 4791.135 ms
+query5.js:190 Query 5 with scale factor 1  took 1721.28 ms
+test.html:50 ------------------------------- Q5 End

@@ -1,0 +1,162 @@
+﻿              -----------> in JavaScript Scaling for operator - b. 100 took 99.80199999999999 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator - b. 1000 took 97.0235 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator - b. 10000 took 99.91999999999999 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator - b. 100000 took 100.48199999999999 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator - b. 1000000 took 97.37699999999998 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator - b. 10000000 took 106.06649999999999 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator - b. 100 took 105.0565 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator - b. 1000 took 103.728 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator - b. 10000 took 103.8945 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator - b. 100000 took 104.99449999999999 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator - b. 1000000 took 100.94750000000002 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator - b. 10000000 took 104.5625 milliseconds.
+index.html:75 -----------> Generating Code for operator - b. 1 took 4.339 milliseconds.
+index.html:77 -----------> apply code generation for operator - b. 1 took 102.7035 milliseconds.
+index.html:75 -----------> Generating Code for operator - b. 5 took 2.532 milliseconds.
+index.html:77 -----------> apply code generation for operator - b. 5 took 105.13300000000001 milliseconds.
+index.html:75 -----------> Generating Code for operator - b. 10 took 3.2555 milliseconds.
+index.html:77 -----------> apply code generation for operator - b. 10 took 102.29749999999999 milliseconds.
+index.html:75 -----------> Generating Code for operator - b. 15 took 4.3865 milliseconds.
+index.html:77 -----------> apply code generation for operator - b. 15 took 105.69950000000001 milliseconds.
+index.html:75 -----------> Generating Code for operator - b. 20 took 4.8135 milliseconds.
+index.html:77 -----------> apply code generation for operator - b. 20 took 100.9835 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator - b. 1 took 570.467 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator - b. 5 took 1599.6835 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator - b. 10 took 2641.5575000000003 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator - b. 15 took 3684.1825000000003 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator - b. 20 took 4720.3425 milliseconds.
+index.html:110 -----------> Generating Code for operator - Function count b. 10 took 4.743 milliseconds.
+index.html:112 -----------> apply code generation for operator - Function count b. 10 took 101.10600000000001 milliseconds.
+index.html:110 -----------> Generating Code for operator - Function count b. 50 took 4.8225 milliseconds.
+index.html:112 -----------> apply code generation for operator - Function count b. 50 took 104.71699999999998 milliseconds.
+index.html:110 -----------> Generating Code for operator - Function count b. 100 took 6.6739999999999995 milliseconds.
+index.html:112 -----------> apply code generation for operator - Function count b. 100 took 102.6825 milliseconds.
+index.html:110 -----------> Generating Code for operator - Function count b. 500 took 7.468999999999999 milliseconds.
+index.html:112 -----------> apply code generation for operator - Function count b. 500 took 104.95450000000001 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator - b. 10 took 566.1865 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator - b. 50 took 1593.6525000000001 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator - b. 100 took 2626.3749999999995 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator - b. 500 took 3676.8915 milliseconds.
+
+
+index.html:39 -----------> in JavaScript Scaling for operator + b. 100 took 102.2965 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator + b. 1000 took 106.64649999999999 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator + b. 10000 took 102.74000000000001 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator + b. 100000 took 104.55850000000001 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator + b. 1000000 took 100.82849999999999 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator + b. 10000000 took 104.47149999999999 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator + b. 100 took 103.955 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator + b. 1000 took 104.362 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator + b. 10000 took 99.5635 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator + b. 100000 took 101.341 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator + b. 1000000 took 101.585 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator + b. 10000000 took 104.5435 milliseconds.
+index.html:75 -----------> Generating Code for operator + b. 1 took 3.7085 milliseconds.
+index.html:77 -----------> apply code generation for operator + b. 1 took 102.44150000000002 milliseconds.
+index.html:75 -----------> Generating Code for operator + b. 5 took 1.857 milliseconds.
+index.html:77 -----------> apply code generation for operator + b. 5 took 104.5305 milliseconds.
+index.html:75 -----------> Generating Code for operator + b. 10 took 2.1665 milliseconds.
+index.html:77 -----------> apply code generation for operator + b. 10 took 102.3515 milliseconds.
+index.html:75 -----------> Generating Code for operator + b. 15 took 2.4219999999999997 milliseconds.
+index.html:77 -----------> apply code generation for operator + b. 15 took 106.53849999999997 milliseconds.
+index.html:75 -----------> Generating Code for operator + b. 20 took 2.9174999999999995 milliseconds.
+index.html:77 -----------> apply code generation for operator + b. 20 took 102.579 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator + b. 1 took 580.6575 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator + b. 5 took 1615.6059999999998 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator + b. 10 took 2637.3785 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator + b. 15 took 3662.3849999999998 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator + b. 20 took 4683.259 milliseconds.
+index.html:110 -----------> Generating Code for operator + Function count b. 10 took 3.8890000000000007 milliseconds.
+index.html:112 -----------> apply code generation for operator + Function count b. 10 took 102.6815 milliseconds.
+index.html:110 -----------> Generating Code for operator + Function count b. 50 took 2.3075 milliseconds.
+index.html:112 -----------> apply code generation for operator + Function count b. 50 took 106.16300000000001 milliseconds.
+index.html:110 -----------> Generating Code for operator + Function count b. 100 took 3.0379999999999994 milliseconds.
+index.html:112 -----------> apply code generation for operator + Function count b. 100 took 101.97149999999999 milliseconds.
+index.html:110 -----------> Generating Code for operator + Function count b. 500 took 5.271 milliseconds.
+index.html:112 -----------> apply code generation for operator + Function count b. 500 took 104.90950000000001 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator + b. 10 took 582.7090000000001 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator + b. 50 took 1616.3294999999998 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator + b. 100 took 2645.7845 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator + b. 500 took 3685.1925 milliseconds.
+
+
+              -----------> in JavaScript Scaling for operator * b. 100 took 101.7775 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator * b. 1000 took 103.775 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator * b. 10000 took 101.243 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator * b. 100000 took 106.6415 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator * b. 1000000 took 100.94499999999998 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator * b. 10000000 took 104.89200000000001 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator * b. 100 took 103.697 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator * b. 1000 took 101.767 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator * b. 10000 took 95.16749999999999 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator * b. 100000 took 104.9865 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator * b. 1000000 took 101.3355 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator * b. 10000000 took 104.684 milliseconds.
+index.html:75 -----------> Generating Code for operator * b. 1 took 3.7474999999999996 milliseconds.
+index.html:77 -----------> apply code generation for operator * b. 1 took 102.92250000000001 milliseconds.
+index.html:75 -----------> Generating Code for operator * b. 5 took 1.8445 milliseconds.
+index.html:77 -----------> apply code generation for operator * b. 5 took 106.74150000000002 milliseconds.
+index.html:75 -----------> Generating Code for operator * b. 10 took 2.132 milliseconds.
+index.html:77 -----------> apply code generation for operator * b. 10 took 102.96000000000001 milliseconds.
+index.html:75 -----------> Generating Code for operator * b. 15 took 2.379 milliseconds.
+index.html:77 -----------> apply code generation for operator * b. 15 took 105.67649999999999 milliseconds.
+index.html:75 -----------> Generating Code for operator * b. 20 took 2.8335 milliseconds.
+index.html:77 -----------> apply code generation for operator * b. 20 took 102.09400000000001 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator * b. 1 took 584.8695 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator * b. 5 took 1621.0549999999998 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator * b. 10 took 2658.475 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator * b. 15 took 3704.0800000000004 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator * b. 20 took 4743.947 milliseconds.
+index.html:110 -----------> Generating Code for operator * Function count b. 10 took 3.8614999999999995 milliseconds.
+index.html:112 -----------> apply code generation for operator * Function count b. 10 took 102.58549999999998 milliseconds.
+index.html:110 -----------> Generating Code for operator * Function count b. 50 took 2.1895000000000002 milliseconds.
+index.html:112 -----------> apply code generation for operator * Function count b. 50 took 104.14949999999999 milliseconds.
+index.html:110 -----------> Generating Code for operator * Function count b. 100 took 3.0060000000000002 milliseconds.
+index.html:112 -----------> apply code generation for operator * Function count b. 100 took 103.2135 milliseconds.
+index.html:110 -----------> Generating Code for operator * Function count b. 500 took 4.686999999999999 milliseconds.
+index.html:112 -----------> apply code generation for operator * Function count b. 500 took 105.8185 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator * b. 10 took 534.8054999999999 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator * b. 50 took 1528.4115 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator * b. 100 took 2571.6034999999997 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator * b. 500 took 3605.7155 milliseconds.
+
+
+              -----------> in JavaScript Scaling for operator / b. 100 took 101.5655 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator / b. 1000 took 105.07650000000001 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator / b. 10000 took 105.17850000000001 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator / b. 100000 took 104.6215 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator / b. 1000000 took 103.09650000000002 milliseconds.
+index.html:39 -----------> in JavaScript Scaling for operator / b. 10000000 took 101.0145 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator / b. 100 took 97.70500000000001 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator / b. 1000 took 107.58600000000001 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator / b. 10000 took 103.191 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator / b. 100000 took 105.168 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator / b. 1000000 took 102.202 milliseconds.
+index.html:56 -----------> apply code generation for Scaling for operator / b. 10000000 took 106.24700000000003 milliseconds.
+index.html:75 -----------> Generating Code for operator / b. 1 took 3.7205000000000004 milliseconds.
+index.html:77 -----------> apply code generation for operator / b. 1 took 101.78300000000002 milliseconds.
+index.html:75 -----------> Generating Code for operator / b. 5 took 1.8369999999999997 milliseconds.
+index.html:77 -----------> apply code generation for operator / b. 5 took 104.88899999999998 milliseconds.
+index.html:75 -----------> Generating Code for operator / b. 10 took 2.1155 milliseconds.
+index.html:77 -----------> apply code generation for operator / b. 10 took 103.7005 milliseconds.
+index.html:75 -----------> Generating Code for operator / b. 15 took 2.374 milliseconds.
+index.html:77 -----------> apply code generation for operator / b. 15 took 99.798 milliseconds.
+index.html:75 -----------> Generating Code for operator / b. 20 took 2.7889999999999997 milliseconds.
+index.html:77 -----------> apply code generation for operator / b. 20 took 102.90449999999998 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator / b. 1 took 584.479 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator / b. 5 took 1626.7965 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator / b. 10 took 2662.5265 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator / b. 15 took 3698.2425000000003 milliseconds.
+index.html:91 -----------> JavaScript Arguments count for operator / b. 20 took 4739.9529999999995 milliseconds.
+index.html:110 -----------> Generating Code for operator / Function count b. 10 took 3.8785000000000003 milliseconds.
+index.html:112 -----------> apply code generation for operator / Function count b. 10 took 102.2905 milliseconds.
+index.html:110 -----------> Generating Code for operator / Function count b. 50 took 2.209 milliseconds.
+index.html:112 -----------> apply code generation for operator / Function count b. 50 took 105.601 milliseconds.
+index.html:110 -----------> Generating Code for operator / Function count b. 100 took 2.803 milliseconds.
+index.html:112 -----------> apply code generation for operator / Function count b. 100 took 102.828 milliseconds.
+index.html:110 -----------> Generating Code for operator / Function count b. 500 took 5.2924999999999995 milliseconds.
+index.html:112 -----------> apply code generation for operator / Function count b. 500 took 105.39050000000002 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator / b. 10 took 562.5545 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator / b. 50 took 1614.041 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator / b. 100 took 2651.4555 milliseconds.
+index.html:125 -----------> JavaScript Function count for operator / b. 500 took 3692.9704999999994 milliseconds.

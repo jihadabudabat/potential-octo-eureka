@@ -1,0 +1,51 @@
+<html>
+
+<head>
+
+</head>
+<script src="q3Client.js"></script>
+<script src="index.js"></script>
+
+<body>
+    <button id="wasm_test" >Text</button>
+
+    <script>
+
+    document.querySelector("#wasm_test").addEventListener('click', async function () {
+        
+    
+    try {
+        navigator.storage.getDirectory ??= () => FileSystemDirectoryHandle.getSystemDirectory({
+            type: 'sandbox'
+        });
+        FileSystemDirectoryHandle.prototype.getDirectoryHandle ??=
+            FileSystemDirectoryHandle.prototype.getDirectory;
+        FileSystemDirectoryHandle.prototype.getFileHandle ??=
+            FileSystemDirectoryHandle.prototype.getFile;
+        FileSystemDirectoryHandle.prototype.values ??= function () {
+            return this.getEntries()[Symbol.asyncIterator]();
+        };
+        globalThis.showDirectoryPicker ??= () => chooseFileSystemEntries({
+            type: 'open-directory'
+        });
+        if (!('kind' in FileSystemHandle.prototype)) {
+            Object.defineProperty(FileSystemHandle.prototype, 'kind', {
+                get() {
+                    return this.isFile ? 'file' : 'directory';
+                }
+            });
+        }
+        console.log("HAS SUPPORT");
+            
+        let src = await showDirectoryPicker();
+        await _start_module(src);
+    }
+    catch (error) {
+        console.log(error);
+    }
+    });
+    </script>
+
+</body>
+
+</html>
